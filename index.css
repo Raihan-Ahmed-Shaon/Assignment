@@ -1,0 +1,135 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    color: beige;
+}
+ul{
+    list-style-type: none;
+}
+ul li{
+    float: left;
+    margin: 1px 20px;
+}
+ul li a{
+    text-decoration: none;
+    color: black; 
+}
+.manu ul{
+    float: right;
+    margin-right: 10%;
+    padding-bottom: 80px;
+}
+p{
+    text-align: justify;
+    margin: 4%;
+    color: black;
+}
+
+h1{
+    color: #363958;
+    font-size: 50px;
+}
+h2{
+    color: #363958;
+    font-size: 40px;
+}
+h3{
+    margin: 4%;
+    color: orange
+}
+.highlight{
+    color: rgb(209, 73, 24);
+}
+section{
+    height: 400px;
+    padding-bottom: 100px;
+}
+.half-width{
+    width: 30%;
+    float: left;
+    margin-left: 8%;
+    margin-right: 5%;
+    padding-left: 2%; 
+    padding-right: 2%; 
+    padding-top: 100px; 
+    }
+  .half-width1{
+    width: 40%;
+    float: left;
+    margin-right: 8%;
+    padding-left: 2%;   
+}
+.half-width2{
+    width: 35%;
+    float: left;
+    margin-left: 8%;
+    padding-left: 2%; 
+    margin-right: 5px;  
+}
+.half-width3{
+    width: 30%;
+    float: left;
+    margin-left: 8%;
+    margin-right: 5%;
+    padding-left: 2%; 
+    padding-right: 2%; 
+  
+    }
+.half-width1 img{
+    width: 80%;
+}
+.project1 img{
+width: 100%;
+}
+.project2 img{
+    width: 100%;
+    }
+.project3 img{
+    width: 100%;
+    }
+.half-width2 img{
+    width: 80%;
+}
+.introducs{
+    background-color:#e7d5d5;
+}
+.button{
+    text-decoration: none;
+    background-image:linear-gradient(tomato, tomato);
+    padding: 15px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 600;
+}
+.padding{
+    padding-bottom: 20px;
+}
+.center{
+    text-align: center;
+}
+.project1{
+    width: 25%;
+    float: left;
+    margin-left: 7%;   
+}
+.project2{
+    width: 25%;
+    float: left;
+    margin-left: 2%;   
+}
+.project3{
+    width: 25%;
+    float: left;
+    margin-left: 2%;   
+}
+.project{
+    box-shadow: 10px 10px 20px rgb(207, 206, 206);
+    border-radius: 15px;
+    padding: 1%;
+}
+.work-inquiry{
+    background-image: url(Images/Group_33094_1.png);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: 800px;
+}
